@@ -12,7 +12,7 @@
   "dependencies": {
     "azure-pipelines-task-lib": "^4.1.0",
     "azure-pipelines-tool-lib": "^2.0.0-preview",
-    "https-proxy-agent": "^5.0.0",
+    "https-proxy-agent": "^5.0.1",
     "node-fetch": "^2.6.7"
   },
   "devDependencies": {
